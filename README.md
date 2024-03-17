@@ -1,23 +1,6 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
 
 
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -210,6 +193,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 ## Roadmap
 
 - [x] Phase 1: Planning and Preparation
+
 Define Project Goals and Objectives:
 
 * Determine the purpose of your web application.
@@ -220,29 +204,34 @@ Define Project Goals and Objectives:
 * Conduct market research to understand existing color prediction and gaming platforms.
 * Analyze competitor offerings and identify unique selling points.
 * Gather insights into user behavior and preferences.
-Conceptualization:
+
+ Conceptualization:
 
 * Brainstorm ideas for game mechanics and features.
 * Sketch out user interfaces and user flows.
 * Determine the technology stack and development tools.
 - [x] Phase 2: Design and Architecture
+
 UI/UX Design:
 
 * Design wireframes and prototypes for the user interface.
 * Create mockups and visual designs for key screens.
 * Ensure the design is intuitive, visually appealing, and aligns with the target audience.
+
 System Architecture:
 
 * Design the overall architecture of your web application.
 * Define components, modules, and their interactions.
 * Choose appropriate technologies for frontend, backend, and database layers.
 - [x] Phase 3: Development
+
 Frontend Development:
 
 * Set up the project structure and environment.
 * Implement UI components and layouts using HTML, CSS, and JavaScript frameworks (e.g., React, Vue.js).
 * Integrate user authentication and authorization mechanisms.
 * Develop interactive features for color prediction and gaming.
+
 Backend Development:
 
 * Choose a backend technology stack (e.g., Node.js, Python) and framework (e.g., Express, Flask).
@@ -256,6 +245,7 @@ Backend Development:
 * Train and evaluate the model using suitable techniques.
 * Integrate the trained model into the backend for real-time predictions.
 - [x] Phase 4: Testing and Quality Assurance
+
 Unit Testing:
 
 * Write and execute unit tests for individual components and modules.
@@ -266,14 +256,17 @@ Unit Testing:
 * Verify data flow and API communication.
 
 User Acceptance Testing (UAT):
+
 * Conduct UAT with target users to gather feedback.
 * Address any usability issues and bugs identified during testing.
 - [x] Phase 5: Deployment and Launch
+
 Deployment:
 
 * Set up hosting environment (e.g., cloud platform, VPS).
 * Deploy frontend and backend components.
 * Configure domain, SSL certificate, and other necessary settings.
+
 Beta Launch:
 
 * Release the web application to a limited audience for beta testing.
@@ -284,6 +277,7 @@ Beta Launch:
 * Monitor performance and stability after full launch.
 
 - [x] Phase 6: Post-Launch Activities
+
 Monitoring and Optimization:
 
 * Monitor application performance, server metrics, and user engagement.
@@ -292,10 +286,12 @@ Maintenance and Support:
 
 * Provide ongoing maintenance and support for bug fixes and updates.
 * Respond to user inquiries and address any issues promptly.
+
 Feature Enhancements:
 
 * Continuously improve the application by adding new features and functionalities.
 * Incorporate user feedback to prioritize feature development.
+
 Marketing and Growth:
 
 * Develop marketing strategies to attract new users and retain existing ones.
