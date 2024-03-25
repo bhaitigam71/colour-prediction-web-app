@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="">
-    <img src="https://d91ztqmtx7u1k.cloudfront.net/ClientContent/Images/Catalogue/color-prediction-game-software-free-demo-available-mob20231106092954.png" alt="Logo" width="240" height="240">
+    <img src="https://play-lh.googleusercontent.com/1eTcmv5utlJ9JR7ohg6i9qU1x6whMWblTpCDQBdKgPm8FnsCW2RRIWfKVWw0vqcuaw=w1024-h500" width="240" height="240">
   </a>
 
   <h3 align="center">colour prediction web application</h3>
